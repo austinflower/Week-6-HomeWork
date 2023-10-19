@@ -1,0 +1,43 @@
+
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+P
+ src/homeworkweek6/question2.java,0\f\0f88d1526e834a25e175310bafb3d7ba4755eba9
+P
+ src/homeworkweek6/question3.java,8\f\8fa35c0b887ad5935f75b41c533eac9ed8aa7887
+P
+ src/homeworkweek6/question4.java,4\0\403850b6a60c44b24791ce3b0edaa85dc1c31ef9
+P
+ src/homeworkweek6/question5.java,e\f\ef4ae379156a0c4f1e613d4eed2e8dada80c7ad8
+P
+ src/homeworkweek6/question6.java,d\e\de03320c99b6f126308f218283c3deb8af2279e4
+P
+ src/homeworkweek6/question7.java,b\c\bcd58c769a94c12a3ac072f724757e699df5465e
+P
+ src/homeworkweek6/question8.java,a\0\a046bcaad6d9a9b8600492a8a95c9c78bb4d2c72
+P
+ src/homeworkweek6/question9.java,9\b\9b6c9c45dec8f9ce61ff78cee6ffaaf93c4b3a05
+Q
+!src/homeworkweek6/question10.java,9\e\9ee4c9c3af414bb21bfa31ff25e0823b712ae6ec
+Q
+!src/homeworkweek6/question11.java,c\5\c55a9cb48c9bcdc58b66e072b9d23cfd5efa5993
+Q
+!src/homeworkweek6/question12.java,6\5\6534421c444668b6db4691330968b43ac6fcdc7d
+Q
+!src/homeworkweek6/question13.java,7\2\724a10f5808b0d453d98abc8106ada9b6205b50a
+Q
+!src/homeworkweek6/question14.java,3\c\3c194ae6d8cf1da7db825d1e0c4a705f86e690eb
+Q
+!src/homeworkweek6/question15.java,f\c\fc1b87e53220d723b44f3a3e6bddef4328487ec3
+Q
+!src/homeworkweek6/question16.java,5\1\51337be5a1079338fb3acbe9c312d1e20bb28a96
+Q
+!src/homeworkweek6/question17.java,c\2\c25577cc701659842724b0bfdd9804eee0531034
+Q
+!src/homeworkweek6/question18.java,0\0\007ef96ea9486c822d4dcf5cbc75cc2fc74249f4
+Q
+!src/homeworkweek6/question19.java,d\6\d68674089c104b963449061380830499bc37353a
+Q
+!src/homeworkweek6/question20.java,9\6\9672af1170c91f39357c4927a784a11c35548b95
+P
+ src/homeworkweek6/question1.java,a\0\a02fb0b55c83218a8d81bf4c80d397f285be2c37
